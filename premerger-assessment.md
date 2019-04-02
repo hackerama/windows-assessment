@@ -1,8 +1,9 @@
 ## CHECAR USUÁRIOS
 
 ### What users/localgroups are on the machine?
-net users
-net localgroups
+  
+  $ net users
+  $ net localgroups
 
 ### More info about a specific user. Check if user has privileges.
 net user user1
